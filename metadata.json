@@ -1,0 +1,8 @@
+{
+  "name": "Copy of LogiIntel Unified Platform",
+  "description": "A world-class, unified logistics intelligence platform featuring real-time dashboards, vendor scorecards, exception prediction, and AI-driven operations control.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
